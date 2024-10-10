@@ -1,32 +1,29 @@
-<h1 align="center">Hi 👋, I'm Nickson Simiyu</h1>
-<h3 align="center">Currently a student at ALX Software Engineering program</h3>
+👋 Hi, I'm Nickson Simiyu
+I'm a passionate software developer and aspiring data engineer from Kenya with a focus on backend development, data analysis, and full-stack web development. I enjoy solving coding challenges, working with complex data, and contributing to projects that make an impact.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickson-simiyu" alt="nickson-simiyu" /></a> </p>
+🔧 Technologies & Tools:
+Backend: Python, Django, Flask, FastAPI, Node.js
+Frontend: React, Next.js
+Data: Pandas, NumPy, SQL, GCP (Google Cloud Platform)
+Web: RESTful APIs, GraphQL, HTML/CSS, JavaScript
+Databases: PostgreSQL, MySQL, MongoDB
+Version Control: Git, GitHub
 
-- 🔭 I’m currently working on **Airbnb clone**
+🚀 What I'm Currently Working On:
+Data Entry Automation: Creating efficient Python scripts to speed up data entry tasks.
+Custom Backend Models: Developing a Django/Flask backend with custom user models and routing.
+Finance and Economics: Solving questions related to finance and economics.
+Linux Migration: Transitioning from Windows to Linux for development.
 
-- 🌱 I’m currently learning **Javascript**
+🌱 What I'm Learning:
+Advanced data engineering/science techniques.
+Deepening my understanding of finance and economics.
+Exploring more GCP services and cloud-based data solutions.
 
-- 💬 Ask me about **Python, Javascript and C**
+📈 Projects I'm Proud Of:
+Lego Sales Data Analysis: Analyzed licensed Lego sets data with a focus on the Star Wars theme.
+Avocado Sales Insights: Built visualizations to track avocado sales over time using pandas and matplotlib.
+Full-Stack Web Apps: Integrated Django backends with Next.js frontends for dynamic and scalable web applications.
 
-- 📫 How to reach me **simiyunickson1@gmail.com**
-
-- ⚡ Fun fact **I love playing games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@drift013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@drift013" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nickson-simiyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nickson-simiyu" height="30" width="40" /></a>
-<a href="https://instagram.com/s_.nickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_.nickson" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nickson simiyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nickson simiyu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/simiyunickson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simiyunickson" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickson-simiyu&show_icons=true&locale=en&layout=compact" alt="nickson-simiyu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickson-simiyu&show_icons=true&locale=en" alt="nickson-simiyu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickson-simiyu&" alt="nickson-simiyu" /></p>
+📫 How to Reach Me:
+Email: simiyunickson1@gmail.com

@@ -1,29 +1,48 @@
-👋 Hi, I'm Nickson Simiyu
-I'm a passionate software developer and aspiring data engineer from Kenya with a focus on backend development, data analysis, and full-stack web development. I enjoy solving coding challenges, working with complex data, and contributing to projects that make an impact.
+# Identity
+### Nickson Simiyu
 
-🔧 Technologies & Tools:
-Backend: Python, Django, Flask, FastAPI, Node.js
-Frontend: React, Next.js
-Data: Pandas, NumPy, SQL, GCP (Google Cloud Platform)
-Web: RESTful APIs, GraphQL, HTML/CSS, JavaScript
-Databases: PostgreSQL, MySQL, MongoDB
-Version Control: Git, GitHub
+# Title
+### Celestial Pathfinder (Freelancer)
 
-🚀 What I'm Currently Working On:
-Data Entry Automation: Creating efficient Python scripts to speed up data entry tasks.
-Custom Backend Models: Developing a Django/Flask backend with custom user models and routing.
-Finance and Economics: Solving questions related to finance and economics.
-Linux Migration: Transitioning from Windows to Linux for development.
+# 🌱 Knowledge Quest
+### 
+- Advanced data engineering / data science
+- Exploring more GCP services and cloud-based data solutions
+- Machine Learning concepts
+- Cloud architecture and services on GCP
 
-🌱 What I'm Learning:
-Advanced data engineering/science techniques.
-Deepening my understanding of finance and economics.
-Exploring more GCP services and cloud-based data solutions.
+# 🔧 Technologies & Tools / Weapons
+### Backend
+- Python, Django, Flask, FastAPI, Node.js
 
-📈 Projects I'm Proud Of:
-Lego Sales Data Analysis: Analyzed licensed Lego sets data with a focus on the Star Wars theme.
-Avocado Sales Insights: Built visualizations to track avocado sales over time using pandas and matplotlib.
-Full-Stack Web Apps: Integrated Django backends with Next.js frontends for dynamic and scalable web applications.
+### Frontend
+- React, Next.js
 
-📫 How to Reach Me:
-Email: simiyunickson1@gmail.com
+### Data
+- Pandas, NumPy, SQL, GCP (Google Cloud Platform)
+
+### Web
+- RESTful APIs, GraphQL, HTML/CSS, JavaScript
+
+### Databases
+- PostgreSQL, MySQL, MongoDB
+
+### Version Control
+- Git, GitHub
+
+# Uptime
+### 23 years, 5 months, 26 days
+
+# 🚀 Ascendancy
+### 
+- **Avocado Sales Analysis**: Developed visualizations to track avocado sales trends.
+- **Lego Sales Data**: Analyzed licensed Lego sets focusing on the Star Wars theme.
+- **Personal Portfolio**: Created a portfolio website to showcase projects and skills.
+
+# 💬 Hints
+- 📧 [Email](mailto:simiyunickson1@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/nickson-simiyu)
+
+# ⚡ Know Me
+- I love playing games and exploring new technologies.
+- I enjoy collaborating on open-source projects and learning from the community.

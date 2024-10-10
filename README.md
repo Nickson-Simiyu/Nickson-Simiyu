@@ -1,48 +1,37 @@
 # Identity
-### Nickson Simiyu
-
-# Title
-### Celestial Pathfinder (Freelancer)
+### Nickson Simiyu  
+**Celestial Pathfinder (Freelancer)**
+# Uptime
+### 23 years, 5 months, 26 days  
 
 # 🌱 Knowledge Quest
-### 
-- Advanced data engineering / data science
-- Exploring more GCP services and cloud-based data solutions
-- Machine Learning concepts
-- Cloud architecture and services on GCP
+- Mastering data engineering & science
+- Navigating GCP architecture & cloud solutions
+- Diving into machine learning
 
-# 🔧 Technologies & Tools / Weapons
+# 🔧 Tech Arsenal
 ### Backend
-- Python, Django, Flask, FastAPI, Node.js
-
+- Python, Django, Flask, FastAPI, Node.js  
 ### Frontend
-- React, Next.js
-
+- React, Next.js  
 ### Data
-- Pandas, NumPy, SQL, GCP (Google Cloud Platform)
-
+- Pandas, NumPy, SQL, GCP  
 ### Web
-- RESTful APIs, GraphQL, HTML/CSS, JavaScript
-
+- RESTful APIs, GraphQL, HTML/CSS, JavaScript  
 ### Databases
-- PostgreSQL, MySQL, MongoDB
-
+- PostgreSQL, MySQL, MongoDB  
 ### Version Control
-- Git, GitHub
-
-# Uptime
-### 23 years, 5 months, 26 days
+- Git, GitHub  
 
 # 🚀 Ascendancy
-### 
 - **Avocado Sales Analysis**: Developed visualizations to track avocado sales trends.
 - **Lego Sales Data**: Analyzed licensed Lego sets focusing on the Star Wars theme.
 - **Personal Portfolio**: Created a portfolio website to showcase projects and skills.
 
-# 💬 Hints
-- 📧 [Email](mailto:simiyunickson1@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/nickson-simiyu)
+# 💬You’ve unlocked the VIP pass to chat with me!
+- 📧 [Email](mailto:simiyunickson1@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/nickson-simiyu)  
 
-# ⚡ Know Me
-- I love playing games and exploring new technologies.
-- I enjoy collaborating on open-source projects and learning from the community.
+# ⚡ Known Knowledge About I
+- Gamer & tech explorer
+- Passionate about open-source collaboration
